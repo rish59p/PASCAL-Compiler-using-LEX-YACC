@@ -1,0 +1,2 @@
+# PASCAL-Compiler-using-LEX-YACC-Lexical-Syntax-Semantic-Analysis-and-3AC-code-generation
+Developed a compiler for a subset of the PASCAL programming language, supporting integer constants, keywords, variables, expressions, assignments, conditional statements, loops, arrays, single-line comments, and read/write statements. This project involves lexical analysis, syntax analysis, semantic analysis, and code generation using LEX and YACC.
